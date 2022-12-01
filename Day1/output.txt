@@ -1,6 +1,0 @@
-ericadamian@Erics-MBP ~ % cd desktop
-ericadamian@Erics-MBP desktop % javac Day1.java
-ericadamian@Erics-MBP desktop % java Day1
-The elf with the most calories has 68467 calories.
-The top 3 elves carrying the most calories have 203420 calories combined.
-ericadamian@Erics-MBP desktop % 
