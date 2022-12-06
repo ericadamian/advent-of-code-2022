@@ -1,0 +1,5 @@
+ericadamian@Erics-MBP ~ % cd desktop
+ericadamian@Erics-MBP desktop % javac Day3P1.java
+ericadamian@Erics-MBP desktop % java Day3P1
+7903
+ericadamian@Erics-MBP desktop % 

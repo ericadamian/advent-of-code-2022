@@ -1,0 +1,5 @@
+ericadamian@Erics-MacBook-Pro ~ % cd desktop        
+ericadamian@Erics-MacBook-Pro desktop % javac Day3P2.java
+ericadamian@Erics-MacBook-Pro desktop % java Day3P2
+2548
+ericadamian@Erics-MacBook-Pro desktop % 
