@@ -1,0 +1,8 @@
+ericadamian@Erics-MacBook-Pro ~ % cd desktop
+ericadamian@Erics-MacBook-Pro desktop % javac Day4.java
+ericadamian@Erics-MacBook-Pro desktop % java Day4      
+Total number of pairs: 1000
+Number of pairs that fully overlap with their counterpart pairs: 503
+Number of pairs that don't overlap their counterpart pairs: 173
+Number of pairs that partially-to-fully overlap with their counterpart pairs: 827
+ericadamian@Erics-MacBook-Pro desktop % 
