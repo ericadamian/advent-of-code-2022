@@ -1,0 +1,6 @@
+ericadamian@Erics-MBP ~ % cd desktop
+ericadamian@Erics-MBP desktop % javac Day2.java
+ericadamian@Erics-MBP desktop % java Day2
+Your total score based on your strategy guide: 13005
+Your total score based on the elf's instructions: 11373
+ericadamian@Erics-MBP desktop % 
