@@ -1,0 +1,8 @@
+ericadamian@Erics-MBP ~ % cd desktop
+ericadamian@Erics-MBP desktop % javac Day6.java
+ericadamian@Erics-MBP desktop % java Day6
+Number of characters processed before the first start-of-packet marker detection: 1640
+ericadamian@Erics-MBP desktop % javac Day6.java
+ericadamian@Erics-MBP desktop % java Day6      
+Number of characters processed before the first start-of-message marker detection: 3613
+ericadamian@Erics-MBP desktop % 
