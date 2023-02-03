@@ -1,0 +1,9 @@
+ericadamian@Erics-MBP ~ % cd desktop
+ericadamian@Erics-MBP desktop % cd day5
+ericadamian@Erics-MBP day5 % javac Day5.java 
+ericadamian@Erics-MBP day5 % java Day5
+GRTSWNJHH
+ericadamian@Erics-MBP day5 % javac Day5.java 
+ericadamian@Erics-MBP day5 % java Day5
+QLFQDBBHM
+ericadamian@Erics-MBP day5 % 
